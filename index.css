@@ -241,3 +241,6 @@ hr{
     padding-bottom: 20px;
     text-align: center;
 }
+.btn{
+    margin-top: -20px;
+}
